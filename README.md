@@ -111,35 +111,52 @@ Built with a user-friendly interface and tested for high performance.
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:vkaashkrsah@gmail.com" target="vkaashkrsah@gmail.com">
+  <!-- Gmail -->
+  <a href="mailto:vkaashkrsah@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/vkaashkrsah" target="(https://www.linkedin.com/in/vkaashkrsah/)">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/> 
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/vkaashkrsah/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
 
+  <!-- Facebook -->
   <a href="https://www.facebook.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/facebook-new.png" width="40" alt="Facebook"/>
   </a>
-  <a href="https://x.com/" target="(https://x.com/vkaashkrsah)">
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/vkaashkrsah" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" width="40" alt="X.com"/>
   </a>
-  <a href="https://instagram.com/" target="[_blank](https://www.instagram.com/vkaashkrsah?igsh=enQwbzFrMHZjZW9k)">
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/vkaashkrsah?igsh=enQwbzFrMHZjZW9k" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new.png" width="40" alt="Instagram"/>
   </a>
+
+  <!-- YouTube -->
   <a href="https://www.youtube.com/@yourchannel" target="_blank">
     <img src="https://img.icons8.com/color/48/youtube-play.png" width="40" alt="YouTube"/>
   </a>
+
+  <!-- LeetCode -->
   <a href="https://leetcode.com/yourusername" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40" alt="LeetCode"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/yourusername" target="_blank">
+
+  <!-- GeeksforGeeks -->
+  <a href="https://www.geeksforgeeks.org/user/vkaashkrsah/" target="_blank">
     <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" width="40" alt="GeeksforGeeks"/>
   </a>
-  <a href="https://stackoverflow.com/users/youruserid" target="_blank">
+
+  <!-- Stack Overflow -->
+  <a href="https://stackoverflow.com/users/20134600/vkaash" target="_blank">
     <img src="https://img.icons8.com/color/48/stackoverflow.png" width="40" alt="Stack Overflow"/>
   </a>
 </p>
+
 
 
 ---
