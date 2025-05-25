@@ -111,13 +111,13 @@ Built with a user-friendly interface and tested for high performance.
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:vkaashkrsah@outlook.com" target="_blank">
+  <a href="mailto:vkaashkrsah@gmail.com" target="vkaashkrsah@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/vkaashkrsah" target="_blank">
+  <a href="https://www.linkedin.com/in/vkaashkrsah" target="[_blank](https://www.linkedin.com/in/vkaashkrsah/)">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/> 
   </a>
-<!--   <a href="https://github.com/vkaashkrsah" target="_blank">
+<!--   <a href="https://github.com/vkaashkrsah" target="[_blank](https://github.com/vkaashkrsah)">
     <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="40" style="background-color:#000; border-radius:8px;" alt="GitHub"/>
   </a> -->
   <a href="https://www.facebook.com/" target="_blank">
