@@ -4,8 +4,9 @@
   <img src="https://drive.google.com/uc?export=view&id=1cykcUb-XNYjISs1TOZJ8M_y3QS3ZpF1I" alt="Banner" width="100%" />
 </p>
 
-
-<h1 align="center">Hi 👋, I'm Vikash Kumar Sah👦 </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1000&pause=300&color=1F75FE&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Vikash+Kumar+Sah+%F0%9F%91%A6;Python+Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A7%96%E2%80%8D%E2%99%82%EF%B8%8F;IT+Assistant+%F0%9F%92%BC;Web+Developer+%F0%9F%8C%90" alt="Typing SVG" />
+</p>
 <h3 align="center">💻 Python Developer | 🤖 Passionate AI Enthusiast | 💼 IT Assistant | 🌐 Web Developer
 
 
@@ -54,17 +55,20 @@
 
 ## 💼 Work Experience
 
-### 🖥️ Assistant-IT — **Corporate Development Bank Ltd**  
+### 🖥️ Assistant-IT — [Corporate Development Bank Ltd](https://www.corporatebank.com.np/)  
 📍 Birgunj, Nepal | 🗓️ Nov 2023 – Present  
+
 - Performed day-end/start procedures in **Pumori Software**  
 - Provided support in hardware/software issues  
 - 📞 Contact: Arbind Chaurasia – 9815263415  
 
-### 🌐 Web Developer — **Thakur International Pvt. Ltd**  
+### 🌐 Web Developer — [Thakur International Pvt. Ltd](http://thakurintl.com)  
 📍 Kathmandu, Nepal | 🗓️ Jun 2019 – Sep 2019  
+
 - Designed & built websites using **WordPress**  
 - Created webpage content & ensured attractive UI  
-- 📞 Contact: Ashok Thakur – +977-1-4720270
+- 📞 Contact: Ashok Thakur – +977-1-4720270  
+
 
 ---
 
