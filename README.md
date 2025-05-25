@@ -121,7 +121,7 @@ Built with a user-friendly interface and tested for high performance.
   <a href="https://www.facebook.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/facebook-new.png" width="40" alt="Facebook"/>
   </a>
-  <a href="https://x.com/" target="[_blank](https://x.com/vkaashkrsah)">
+  <a href="https://x.com/" target="https://x.com/vkaashkrsah">
     <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" width="40" alt="X.com"/>
   </a>
   <a href="https://instagram.com/" target="[_blank](https://www.instagram.com/vkaashkrsah?igsh=enQwbzFrMHZjZW9k)">
