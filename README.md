@@ -80,25 +80,37 @@ Built with a user-friendly interface and tested for high performance.
 
 ---
 
-## 🧾 Certifications
+<h2>🧾 Certifications & 🎓 Education</h2>
 
-- 🐍 Python – *APTRON (2018)*  
-- ☕ Java – *ITENIC (2018)*  
-- 🗃 Big Data & Hadoop – *APTRON (2018)*
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3>🧾 Certifications</h3>
+        <ul>
+          <li>🐍 Python – <i>APTRON (2018)</i></li>
+          <li>☕ Java – <i>ITENIC (2018)</i></li>
+          <li>🗃 Big Data & Hadoop – <i>APTRON (2018)</i></li>
+        </ul>
+      </td>
+      <td valign="top" width="50%">
+        <h3>🎓 Education</h3>
+        <ul>
+          <li>🎓 <b>B.Tech. Computer Science</b> – JB Institute of Technology, Dehradun</li>
+          <li>🏫 Higher Secondary – Hari Khetan Multiple Campus, Nepal</li>
+          <li>🏫 Class 10 – Siddhartha Ma. Vi., Nepal</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
-
-## 🎓 Education
-
-- 🎓 **B.T2ech. Computer Science** – JB Institute of Technology, Dehradun  
-- 🏫 **Higher Secondary** – Hari Khetan Multiple Campus, Nepal  
-- 🏫 **Class 10** – Siddhartha Ma. Vi., Nepal
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:vkaashkrsah@outlook.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" alt="Email"/>
   </a>
@@ -146,7 +158,6 @@ Built with a user-friendly interface and tested for high performance.
 </p>
 
 ---
-
 <table>
   <tr>
     <td align="left" valign="top" width="50%">
@@ -170,7 +181,8 @@ Built with a user-friendly interface and tested for high performance.
       </ul>
     </td>
   </tr>
-</table>
+</table> 
+
 
 
 ---
