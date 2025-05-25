@@ -117,16 +117,14 @@ Built with a user-friendly interface and tested for high performance.
   <a href="https://www.linkedin.com/in/vkaashkrsah" target="[_blank](https://www.linkedin.com/in/vkaashkrsah/)">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/> 
   </a>
-<!--   <a href="https://github.com/vkaashkrsah" target="[_blank](https://github.com/vkaashkrsah)">
-    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="40" style="background-color:#000; border-radius:8px;" alt="GitHub"/>
-  </a> -->
+
   <a href="https://www.facebook.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/facebook-new.png" width="40" alt="Facebook"/>
   </a>
-  <a href="https://x.com/" target="_blank">
+  <a href="https://x.com/" target="[_blank](https://x.com/vkaashkrsah)">
     <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" width="40" alt="X.com"/>
   </a>
-  <a href="https://instagram.com/" target="_blank">
+  <a href="https://instagram.com/" target="[_blank](https://www.instagram.com/vkaashkrsah?igsh=enQwbzFrMHZjZW9k)">
     <img src="https://img.icons8.com/color/48/instagram-new.png" width="40" alt="Instagram"/>
   </a>
   <a href="https://www.youtube.com/@yourchannel" target="_blank">
