@@ -114,14 +114,14 @@ Built with a user-friendly interface and tested for high performance.
   <a href="mailto:vkaashkrsah@gmail.com" target="vkaashkrsah@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/vkaashkrsah" target="[_blank](https://www.linkedin.com/in/vkaashkrsah/)">
+  <a href="https://www.linkedin.com/in/vkaashkrsah" target="(https://www.linkedin.com/in/vkaashkrsah/)">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/> 
   </a>
 
   <a href="https://www.facebook.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/facebook-new.png" width="40" alt="Facebook"/>
   </a>
-  <a href="https://x.com/" target="https://x.com/vkaashkrsah">
+  <a href="https://x.com/" target="(https://x.com/vkaashkrsah)">
     <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" width="40" alt="X.com"/>
   </a>
   <a href="https://instagram.com/" target="[_blank](https://www.instagram.com/vkaashkrsah?igsh=enQwbzFrMHZjZW9k)">
