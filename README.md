@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <a href="mailto:vkaashkrsah@outlook.com"><img src="https://img.shields.io/badge/Email-vkaashkrsah@outlook.com-blue?style=flat-square&logo=gmail" /></a>
+  <a href="mailto:vkaashkrsahin@gmail.com"><img src="https://img.shields.io/badge/Email-vkaashkrsah@outlook.com-blue?style=flat-square&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/vkaashkrsah"><img src="https://img.shields.io/badge/LinkedIn-vkaashkrsah-blue?style=flat-square&logo=linkedin" /></a>
   <a href="https://github.com/vkaashkrsah"><img src="https://img.shields.io/badge/GitHub-vkaashkrsah-black?style=flat-square&logo=github" /></a>
 </p>
@@ -132,7 +132,7 @@ Built with a user-friendly interface and tested for high performance.
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/vkaashkrsah?igsh=enQwbzFrMHZjZW9k" target="_blank">
+  <a href="https://www.instagram.com/vkaashkrsah/" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new.png" width="40" alt="Instagram"/>
   </a>
 
