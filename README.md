@@ -56,14 +56,14 @@
 ## 💼 Work Experience
 
 ### 🖥️ Assistant-IT — [Corporate Development Bank Ltd](https://www.corporatebank.com.np/)  
-📍 Birgunj, Nepal | 🗓️ Nov 2023 – Present  
+📍 Birgunj, Nepal | 🗓️ Nov 2023 – Feb 2025  
 
 - Performed day-end/start procedures in **Pumori Software**  
 - Provided support in hardware/software issues  
 - 📞 Contact: Arbind Chaurasia – 9815263415  
 
 ### 🌐 Web Developer — [Thakur International Pvt. Ltd](http://thakurintl.com)  
-📍 Kathmandu, Nepal | 🗓️ Jun 2019 – Sep 2019  
+📍 Kathmandu, Nepal |  
 
 - Designed & built websites using **WordPress**  
 - Created webpage content & ensured attractive UI  
@@ -88,16 +88,16 @@ Built with a user-friendly interface and tested for high performance.
       <td valign="top" width="50%">
         <h3>🧾 Certifications</h3>
         <ul>
-          <li>🐍 Python – <i>APTRON (2018)</i></li>
-          <li>☕ Java – <i>ITENIC (2018)</i></li>
-          <li>🗃 Big Data & Hadoop – <i>APTRON (2018)</i></li>
+          <li>🐍 Python – <i>APTRON </i></li>
+          <li>☕ Java – <i>ITENIC </i></li>
+          <li>🗃 Big Data & Hadoop – <i>APTRON </i></li>
         </ul>
       </td>
       <td valign="top" width="50%">
         <h3>🎓 Education</h3>
         <ul>
-          <li>🎓 <b>B.Tech. Computer Science</b> – JB Institute of Technology, Dehradun</li>
-          <li>🏫 Higher Secondary – Hari Khetan Multiple Campus, Nepal</li>
+          <li>🎓 <b>B.Tech. Computer Science</b> – JB Institute of Technology, Dehradun, India</li>
+          <li>🏫 Higher Secondary(10+2) – Hari Khetan Multiple Campus, Nepal</li>
           <li>🏫 Class 10 – Siddhartha Ma. Vi., Nepal</li>
         </ul>
       </td>
