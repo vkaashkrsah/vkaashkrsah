@@ -60,7 +60,7 @@
 
 - Performed day-end/start procedures in **Pumori Software**  
 - Provided support in hardware/software issues  
-- 📞 Contact: Arbind Chaurasia – 9815263415  
+- 📞 Contact: Arbind Chaurasia – +977 9815263415  
 
 ### 🌐 Web Developer — [Thakur International Pvt. Ltd](http://thakurintl.com)  
 📍 Kathmandu, Nepal |  
