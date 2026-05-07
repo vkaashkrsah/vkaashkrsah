@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1000&pause=300&color=00FF00&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Vikash+Kumar+Sah+%F0%9F%91%A6;Python+Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A7%96%E2%80%8D%E2%99%82%EF%B8%8F;IT+Assistant+%F0%9F%92%BC;Web+Developer+%F0%9F%8C%90" alt="Typing SVG" />
 </p>
-<h3 align="center">💻 Python Developer | 🤖 Passionate AI Enthusiast | 💼 IT Assistant | 🌐 Web Developer
+<h3 align="center">💻 Python Developer | 🤖 AI/ML Engineer | 💼 IT Support Specialist | 🌐 Web Developer
 
 
 <p align="center">
